@@ -3,7 +3,7 @@ Arduino code to move stepper motor based on input from IR remote.  The goal is t
 
 This code is mostly taken from http://rapidcitizen.com/arduino_remote_stereo_volume_control.html
 
-The following components are needed for this build:
+<b>The following components are needed for this build:</b>
 
 Arduino Uno R3 (Atmega328 - assembled) - Main Arduino board
 
